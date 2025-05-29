@@ -2,6 +2,9 @@
 
 A Docker Compose setup for running a custom Jellyfin media server with integrated qBittorrent for downloading content.
 
+![image](https://github.com/user-attachments/assets/ebb74f62-eb39-4768-a451-2a8d072b54c0)
+
+
 ## Overview
 
 This project combines:
